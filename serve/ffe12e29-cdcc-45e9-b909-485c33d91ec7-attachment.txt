@@ -1,0 +1,12 @@
+[32mINFO    [0m test_10:conftest.py:26 ===> Test test_10 started at 2024-06-20 23:38:05.521381
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:149 The chromedriver version (125.0.6422.78) detected in PATH at C:\Users\firstlord\webdrivers\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (126.0.6478.62); currently, chromedriver 126.0.6478.63 is recommended for chrome 126.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m test_10:conftest.py:43 Browser chrome started
+[32mINFO    [0m test_10:BasePage.py:52 MainPage: Clicked |macbook_link|
+[32mINFO    [0m test_10:BasePage.py:52 ProductPage: Clicked |review_tab|
+[32mINFO    [0m test_10:BasePage.py:52 ProductPage: Clicked |review_name_input|
+[32mINFO    [0m test_10:BasePage.py:67 ProductPage: Writing |NAME| to |review_name_input|
+[32mINFO    [0m test_10:BasePage.py:52 ProductPage: Clicked |review_text_input|
+[32mINFO    [0m test_10:BasePage.py:67 ProductPage: Writing |TESTTESTTESTTESTTESTTESTTESTTESTTESTTEST| to |review_text_input|
+[32mINFO    [0m test_10:BasePage.py:52 ProductPage: Clicked |review_rating_input|
+[32mINFO    [0m test_10:BasePage.py:52 ProductPage: Clicked |submit_review_button|
+[32mINFO    [0m test_10:conftest.py:47 ===> Test test_10 finished at 2024-06-20 23:38:11.001164

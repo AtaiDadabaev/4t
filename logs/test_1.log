@@ -1,0 +1,5 @@
+INFO ===> Test test_1 started at 2024-06-20 23:36:43.351426
+INFO Browser chrome started
+INFO MainPage: Clicked |macbook_link|
+INFO ProductPage: Clicked |main_images_product|
+INFO ===> Test test_1 finished at 2024-06-20 23:36:48.392652

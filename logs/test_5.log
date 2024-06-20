@@ -1,0 +1,29 @@
+INFO ===> Test test_5 started at 2024-06-20 23:37:20.415223
+INFO Browser chrome started
+INFO MainPage: Clicked |search_field|
+ERROR Error inputting to element: Message: invalid element state
+  (Session info: chrome=126.0.6478.62)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F9681F22+60322]
+	(No symbol) [0x00007FF6F95FCE99]
+	(No symbol) [0x00007FF6F94B7CE9]
+	(No symbol) [0x00007FF6F94FD109]
+	(No symbol) [0x00007FF6F952C21A]
+	(No symbol) [0x00007FF6F94FADB6]
+	(No symbol) [0x00007FF6F952C430]
+	(No symbol) [0x00007FF6F954BC80]
+	(No symbol) [0x00007FF6F952BFC3]
+	(No symbol) [0x00007FF6F94F9617]
+	(No symbol) [0x00007FF6F94FA211]
+	GetHandleVerifier [0x00007FF6F999946D+3301613]
+	GetHandleVerifier [0x00007FF6F99E3693+3605267]
+	GetHandleVerifier [0x00007FF6F99D9410+3563664]
+	GetHandleVerifier [0x00007FF6F97342F6+790390]
+	(No symbol) [0x00007FF6F96074DF]
+	(No symbol) [0x00007FF6F96033D4]
+	(No symbol) [0x00007FF6F9603562]
+	(No symbol) [0x00007FF6F95F2F6F]
+	BaseThreadInitThunk [0x00007FFB3438257D+29]
+	RtlUserThreadStart [0x00007FFB35DAAF28+40]
+
+INFO ===> Test test_5 finished at 2024-06-20 23:37:24.811362

@@ -1,0 +1,5 @@
+INFO ===> Test test_3 started at 2024-06-20 23:37:01.290853
+INFO Browser chrome started
+INFO MainPage: Clicked |computer_dropdown|
+INFO MainPage: Clicked |computer_dropdown_button|
+INFO ===> Test test_3 finished at 2024-06-20 23:37:05.906118
